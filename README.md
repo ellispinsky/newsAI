@@ -1,1 +1,2 @@
 # newsAI
+Personalized news reccomender
